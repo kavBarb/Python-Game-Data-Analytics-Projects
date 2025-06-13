@@ -4,6 +4,13 @@ Book Keeping on Major Models I used during my job as a product analyst in a game
 # Overview
 This project explores user retention and segmentation using cohort analysis techniques in SQL, and clustering and regression modeling in Python. It focuses on player behaviors in a mobile game app, with attention to ad viewers, conversion, and retention.
 
+# Analytics Funnels
+UA: Payed and Organic Strategies and KPI measurement
+Paying Players Distribution and modification over time
+Conversion Strategies as opposed to ARPPU strategies
+Retention Strategies
+Introduction of Ads in a free-to-play game: balancing IAPs
+
 ## Goals
 Identify behavioral cohorts (e.g., ad viewers vs. non-viewers)
 
